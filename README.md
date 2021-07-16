@@ -1,4 +1,4 @@
-# Password_Generator
+# JS-QUIZ
 Description: A quiz that deducts time for incorrect answers . User with time left stores name in the highscores .  
 
 
